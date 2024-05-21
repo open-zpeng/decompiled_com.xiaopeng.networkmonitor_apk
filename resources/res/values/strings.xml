@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkMonitor</string>
+    <string name="log_already_upload">日志已经上传</string>
+    <string name="shared_lib_path">/system/vendor/lib/irdeto/</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
